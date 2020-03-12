@@ -1,0 +1,17 @@
+---
+title: "About"
+output: html_document
+---
+
+## Visualizing COVID-19 Data Provided by The Italian Ministry of Health
+
+This Shiny App gets the data directly from [the github project](https://github.com/pcm-dpc/COVID-19) in which the [Italian Civil Protection Department](http://www.protezionecivile.it/risk-activities/health-risk/emergencies/coronavirus) is sharing updates on the regional and provencial increase in cases.
+
+## Preprocessing
+
+Some preprocessing of the data is happening here, like converting the date strings to Date.
+Another important change is that the accumulative number of cases has been converted to the daily number of (new) cases. I have noticed that there are some negative values in the data set and I still haven't explored the reason.
+
+## Contact
+
+Feel free to drop me a line [using this form](https://datigrezzi.com/contact/) if you have questions or comments.
