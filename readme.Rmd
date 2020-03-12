@@ -5,7 +5,7 @@ output: html_document
 
 ## Visualizing COVID-19 Data Provided by The Italian Ministry of Health
 
-This Shiny App gets the data directly from [the github project](https://github.com/pcm-dpc/COVID-19) in which the [Italian Civil Protection Department](http://www.protezionecivile.it/risk-activities/health-risk/emergencies/coronavirus) is sharing updates on the regional and provencial increase in cases.
+[This Shiny App](https://datigrezzi.shinyapps.io/covid19/) gets the data directly from [the github project](https://github.com/pcm-dpc/COVID-19) in which the [Italian Civil Protection Department](http://www.protezionecivile.it/risk-activities/health-risk/emergencies/coronavirus) is sharing updates on the regional and provencial increase in cases.
 
 ## Preprocessing
 
